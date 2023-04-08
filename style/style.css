@@ -1,0 +1,17 @@
+body,
+html {
+    height: 100%;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin: 0;
+}
+
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("images/Background\ Food.jpg");
+    min-height: 75%;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Lucida Console";
+    letter-spacing: 1px;
+}
